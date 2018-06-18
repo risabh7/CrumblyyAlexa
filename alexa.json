@@ -1,0 +1,290 @@
+{
+    "interactionModel": {
+        "languageModel": {
+            "invocationName": "life hacks",
+            "intents": [
+                {
+                    "name": "AMAZON.FallbackIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.CancelIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.HelpIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.StopIntent",
+                    "samples": []
+                },
+                {
+                    "name": "hackofthedayintent",
+                    "slots": [],
+                    "samples": [
+                        "hack of the day"
+                    ]
+                },
+                {
+                    "name": "AMAZON.PauseIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.ResumeIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.MoreIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.NavigateHomeIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.NavigateSettingsIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.NextIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.PageUpIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.PageDownIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.PreviousIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.ScrollRightIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.ScrollDownIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.ScrollLeftIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.ScrollUpIntent",
+                    "samples": []
+                },
+                {
+                    "name": "technologyintent",
+                    "slots": [],
+                    "samples": [
+                        "hacks on Technology",
+                        "Technology Hacks"
+                    ]
+                },
+                {
+                    "name": "fooddrinksintent",
+                    "slots": [],
+                    "samples": [
+                        "Hacks on Drink",
+                        "Hacks on Food",
+                        "Hacks on Food and Drinks"
+                    ]
+                },
+                {
+                    "name": "healthintent",
+                    "slots": [],
+                    "samples": [
+                        "fitness hacks",
+                        "health hacks",
+                        "hacks on fitness",
+                        "Hacks on health",
+                        "Hacks on Health and Fitness"
+                    ]
+                },
+                {
+                    "name": "dailylifeintent",
+                    "slots": [],
+                    "samples": [
+                        "Hacks on Daily life situations",
+                        "HAcks on Daily life solutions"
+                    ]
+                },
+                {
+                    "name": "moneysaverintent",
+                    "slots": [],
+                    "samples": [
+                        "hacks on how to save money",
+                        "money saver hacks",
+                        "hacks on money saver"
+                    ]
+                },
+                {
+                    "name": "lifetipsintent",
+                    "slots": [],
+                    "samples": [
+                        "life tips hacks",
+                        "hacks on Life tips"
+                    ]
+                },
+                {
+                    "name": "relationshipintent",
+                    "slots": [],
+                    "samples": [
+                        "relationship hacks",
+                        "hacks on relationship"
+                    ]
+                },
+                {
+                    "name": "partyintent",
+                    "slots": [],
+                    "samples": [
+                        "party hacks",
+                        "hacks for parties",
+                        "hacks on cool party"
+                    ]
+                },
+                {
+                    "name": "survivalintent",
+                    "slots": [],
+                    "samples": [
+                        "survival hacks",
+                        "hacks for survival"
+                    ]
+                },
+                {
+                    "name": "brainyintent",
+                    "slots": [],
+                    "samples": [
+                        "Brain storming hacks",
+                        "Brainy hacks"
+                    ]
+                },
+                {
+                    "name": "extrasintent",
+                    "slots": [],
+                    "samples": [
+                        "Any other hacks",
+                        "Extra hacks",
+                        "other hacks"
+                    ]
+                },
+                {
+                    "name": "nexttechnologyintent",
+                    "slots": [],
+                    "samples": [
+                        "Next technology hacks"
+                    ]
+                },
+                {
+                    "name": "previoustechnologyintent",
+                    "slots": [],
+                    "samples": [
+                        "previous technology hacks"
+                    ]
+                },
+                {
+                    "name": "nextfooddrinksintent",
+                    "slots": [],
+                    "samples": [
+                        "Next hack on Drinks",
+                        "Next food hack",
+                        "Next hack on Food and drinks",
+                        "Next Food drinks hacks"
+                    ]
+                },
+                {
+                    "name": "previousfooddrinksintent",
+                    "slots": [],
+                    "samples": [
+                        "Previous food and drinks hacks",
+                        "Previous hacks on food",
+                        "Previous hacks on food and drinks"
+                    ]
+                },
+                {
+                    "name": "nexthealthintent",
+                    "slots": [],
+                    "samples": [
+                        "Next hack on health",
+                        "Next hack on Health and fitness",
+                        "Next Health and Fitness hacks"
+                    ]
+                },
+                {
+                    "name": "previoushealthintent",
+                    "slots": [],
+                    "samples": [
+                        "previous fitness hacks",
+                        "previous hacks on fitness",
+                        "previous hacks on health and fitness",
+                        "Previous health hacks"
+                    ]
+                },
+                {
+                    "name": "nextdailylifeintent",
+                    "slots": [],
+                    "samples": [
+                        "next hacks on daily life situations"
+                    ]
+                },
+                {
+                    "name": "previousdailylifeintent",
+                    "slots": [],
+                    "samples": [
+                        "Previous hacks on daily life situations"
+                    ]
+                },
+                {
+                    "name": "nextmoneysaverintent",
+                    "slots": [],
+                    "samples": [
+                        "next hacks on how to save money",
+                        "next hacks on money saver"
+                    ]
+                },
+                {
+                    "name": "previousmoneysaverintent",
+                    "slots": [],
+                    "samples": [
+                        "previous hacks on how to save money",
+                        "Previous hacks on money saver"
+                    ]
+                },
+                {
+                    "name": "nextrelationshipintent",
+                    "slots": [],
+                    "samples": [
+                        "next relationship hacks"
+                    ]
+                },
+                {
+                    "name": "previousrelationshipintent",
+                    "slots": [],
+                    "samples": [
+                        "previous relationship hacks"
+                    ]
+                },
+                {
+                    "name": "nextpartyintent",
+                    "slots": [],
+                    "samples": [
+                        "Next Party hacks"
+                    ]
+                },
+                {
+                    "name": "previouspartyintent",
+                    "slots": [],
+                    "samples": [
+                        "Previous Party hacks"
+                    ]
+                }
+            ],
+            "types": []
+        }
+    }
+}
